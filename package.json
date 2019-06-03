@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+      "/Users/joshnissenbaum/Programming/React Native/Recycling Mate"
+    ]
+  ],
+  "_from": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+  "_id": "react-native-smooth-pincode-input@git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git#e069286553356ee8ec93e957cb895b5334be8307",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-smooth-pincode-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+    "rawSpec": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+    "saveSpec": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+    "fetchSpec": "https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git#e069286553356ee8ec93e957cb895b5334be8307",
+  "_spec": "git+https://github.com/joshnissenbaum/react-native-smooth-pincode-input.git",
+  "_where": "/Users/joshnissenbaum/Programming/React Native/Recycling Mate",
+  "author": {
+    "name": "William Shih",
+    "email": "xamous@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xamous/react-native-smooth-pincode-input/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-animatable": "^1.3.0"
+  },
+  "description": "A cross-platform, smooth, lightweight, customizable PIN code input component for React Native.",
+  "homepage": "https://github.com/xamous/react-native-smooth-pincode-input",
+  "keywords": [
+    "react-native",
+    "pincode",
+    "password",
+    "TextInput"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-smooth-pincode-input",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xamous/react-native-smooth-pincode-input.git"
+  },
+  "scripts": {},
+  "version": "1.0.3"
+}
